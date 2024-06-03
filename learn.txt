@@ -28,10 +28,11 @@ git checkout
 > npm init -y 
 > npm i express --save
 
+           rah giri nashodan file tavasot git
   creat file
 
 file name = .gitignore
 
-file data : 
+file data : nam faili ke mikhahid rahgiri nashavad
 -> node_modules
 -> package-lock.json
