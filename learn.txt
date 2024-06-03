@@ -22,3 +22,8 @@ git checkout
 
 >command & shift & p
 > Git: Merge Branch
+
+  node madules
+
+> npm init -y 
+> npm i express --save
