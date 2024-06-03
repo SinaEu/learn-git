@@ -13,3 +13,12 @@ git kimit
 دیدن کمیت که در گذشته ساخته شده
 git checkout
 
+  delet branch
+
+> command & shift & p
+> git:Delet Branch
+
+  merch
+
+>command & shift & p
+> Git: Merge Branch
