@@ -27,3 +27,11 @@ git checkout
 
 > npm init -y 
 > npm i express --save
+
+  creat file
+
+file name = .gitignore
+
+file data : 
+-> node_modules
+-> package-lock.json
