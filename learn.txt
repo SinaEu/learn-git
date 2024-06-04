@@ -36,3 +36,7 @@ file name = .gitignore
 file data : nam faili ke mikhahid rahgiri nashavad
 -> node_modules
 -> package-lock.json
+
+   remove remot
+
+git remote rm origin
