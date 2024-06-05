@@ -42,3 +42,8 @@ file data : nam faili ke mikhahid rahgiri nashavad
 git remote rm origin
 
 test
+
+  ساخت اکانت گیت در ترمینال
+
+git config --global user.name اسم مورد نظر
+git config --global user.name ایمیل مورد نظر
