@@ -40,3 +40,5 @@ file data : nam faili ke mikhahid rahgiri nashavad
    remove remot
 
 git remote rm origin
+
+test
